@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Mi escuela</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="txt_title_inicio">Inicio</string>
+    <string name="txt_title_calendario">Calendario</string>
+    <string name="txt_title_explorar">Explorar</string>
+    <string name="txt_title_config">Configuraciones</string>
+    <string name="txt_title_salir">Salir</string>
+    <string name="txt_title_noticias">Noticias</string>
+    <string name="txt_title_propuestas">Propuestas</string>
+    <string name="txt_notific">Notificaciones</string>
+    <string name="txt_nueva_propuesta">Nueva propuesta</string>
+    <string name="txt_alerta_propuestas">En esta sección encontrarás las propuestas creadas en tu comunidad educativa podrás votarlas y así ayudar a su mejora continua.</string>
+</resources>
